@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:164-189
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:140-163
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:99-139
+supports-screens
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:3-31:17
+	android:label
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:75-107
+	android:debuggable
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:108-133
+	android:icon
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:134-165
+	android:theme
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:16-74
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:5-11:16
+	android:screenOrientation
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:390-425
+	android:resizeableActivity
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:355-389
+	android:configChanges
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:10:18-58
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:5-301
+	android:configChanges
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:70-227
+	android:theme
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:228-298
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:15-69
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:5-303
+	android:configChanges
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:72-229
+	android:theme
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:230-300
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:15-71
+activity#com.facebook.unity.FBUnityGamingServicesFriendFinderActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:5-322
+	android:configChanges
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:91-248
+	android:theme
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:249-319
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:15-90
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:5-98
+	android:exported
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:72-95
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:15-71
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:5-102
+	android:exported
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:76-99
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:15-75
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:15-75
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:15-79
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:19:15-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:20:5-98
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:20:62-95
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:20:16-61
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:21:5-95
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:21:72-92
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:21:16-71
+meta-data#com.facebook.sdk.AdvertiserIDCollectionEnabled
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:5-101
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:78-98
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:16-77
+provider#com.facebook.FacebookContentProvider
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:5-171
+	android:authorities
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:67-144
+	android:exported
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:145-168
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:15-66
+uses-permission#android.permission.INTERNET
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:26:22-73
+meta-data#unity.splash-mode
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:27:5-69
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:27:49-66
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:27:16-48
+meta-data#unity.splash-enable
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:28:5-74
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:28:51-71
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:28:16-50
+meta-data#unity.allow-resizable-window
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:29:5-84
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:29:60-81
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:29:16-59
+meta-data#unity.build-id
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:30:5-101
+	android:value
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:30:46-98
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:30:16-45
+uses-feature#0x00030000
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:32:3-52
+	android:glEsVersion
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:32:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:33:3-91
+	android:required
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:33:64-88
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:33:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:34:3-88
+	android:required
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:34:61-85
+	android:name
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:34:17-60
+uses-sdk
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\Ragdol_SpaceMonkey\Ragdol_SpaceMonkey\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
